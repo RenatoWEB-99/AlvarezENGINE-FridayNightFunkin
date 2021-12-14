@@ -8,11 +8,19 @@ uhhh...
 features:
 
 -warning notes (fnf hd pico notes)
+
 -instakill notes (expurgation notes)
+
 -faster notes (fnf hd mom notes)
+
 -spacebar to dodge (qt mod)
+
 -achievements
+
 -alvarez input (new input)
+
 -heavy input (old input)
+
 -erect mode (fnf complete game)
+
 -visual enhancements
