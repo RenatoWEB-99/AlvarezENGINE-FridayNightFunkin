@@ -1,11 +1,30 @@
-# AlvarezENGINE-FridayNightFunkin
-New fnf engine by ReneeIDK!!!!!!1!!11111 please download
+# ALVAREZ ENGINE FRIDAY NIGHT FUNKIN'
+**Hope this engine helps you!**
+## What's FRIDAY NIGHT FUNKIN'?
+The best rythm game.
+## Who made the FNF game?
 
-made in fnf source code
+ - -**NinjaMuffin (Game Code)**
+  
+ - -**KawaiiSprite (Music)**
 
-uhhh...
+ - -**EvilSk8er (Concept Art)**
 
-features:
+ - -**PhantomArcade (Animator)**
+
+## Who made the engine?
+ReneeIDK
+
+## Can i use it for my mod?
+OF COURSE YOU CAN! GO CRAZY!
+
+## About
+
+WOOAH... uhh... this is a new FRIDAY NIGHT FUNKIN' Engine!!!1!1!!!111! please download.
+
+Made in FNF Source Code.
+
+Features:
 
 -warning notes (fnf hd pico notes)
 
@@ -24,3 +43,6 @@ features:
 -erect mode (fnf complete game)
 
 -visual enhancements
+
+
+### BIG LOVE TO NEWGROUNDS!
