@@ -1,10 +1,10 @@
 ## ENGINE VER 1.00 - Final Release!!! (31/01/2022)
 Adds New Input, Fix Options Menu, Modchart Maker.
 
-## ENGINE VER 0.50 - Coming Soon (10/01/2022)
+## ENGINE VER 0.50a - Coming Soon (10/01/2022)
 Graphics ENHANCEMENT, Achievements.
 
-## ENGINE VER 0.44 - Christmas Release! (31/12/2021)
+## ENGINE VER 0.45a - Christmas Release! (31/12/2021)
 Adds Faster Note, QT DODGE.
 
 ## ENGINE VER 0.399 - Coming Soon (28/12/2021)
