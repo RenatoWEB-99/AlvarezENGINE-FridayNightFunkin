@@ -1,1 +1,2 @@
-just a repo test.
+# HOW DO I PLAY FNF?
+Play it on NEWGROUNDS!
