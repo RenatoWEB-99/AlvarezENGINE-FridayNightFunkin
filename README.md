@@ -44,5 +44,9 @@ Features:
 
 -visual enhancements
 
+## FUTURE
+
+The future of the engine depends on the future of FNF. IDK what will happen when the devs release the full game.
+
 
 ### BIG LOVE TO NEWGROUNDS!
